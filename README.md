@@ -52,7 +52,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project.
 
-* [![Django][https://www.djangoproject.com/]][Django-url]
+* <a href="djangoproject.com">Django<a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Your Name - [@sujalkbarnwal_twitter](https://twitter.com/sujalkbarnwal) - sujaldev@programmer.net
 
-Project Link: [https://github.com/devsujal/VoteSmart/edit/main/README.md](https://github.com/devsujal/VoteSmart/)
+Project Link: [https://github.com/devsujal/VoteSmart/](https://github.com/devsujal/VoteSmart/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
